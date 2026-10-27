@@ -1,0 +1,33 @@
+# Dependencias y compilación
+node_modules/
+dist/
+build/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secretos y entorno
+.env
+.env.*
+
+# Excel/Office: archivos temporales de bloqueo
+~$*
+.~lock.*
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+*.swp

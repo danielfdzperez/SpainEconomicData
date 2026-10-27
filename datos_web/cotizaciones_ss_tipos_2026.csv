@@ -1,0 +1,9 @@
+concepto,tipo_empresa_pct,tipo_trabajador_pct,tipo_total_pct,para_que_sirve,nota,fuente_id
+contingencias_comunes,23.6,4.7,28.3,"Pensiones contributivas (jubilación, viudedad, orfandad), incapacidad temporal por enfermedad común, nacimiento y cuidado de menor, riesgo en el embarazo",Sobre la base de cotización mensual (entre base mínima y máxima del grupo),S01
+desempleo_indefinido,5.5,1.55,7.05,"Prestación y subsidio por desempleo (SEPE), cotización a la Seguridad Social de los parados",Contrato indefinido (tiempo completo o parcial),S03
+desempleo_temporal,6.7,1.6,8.3,Igual que desempleo indefinido,Contrato de duración determinada (tiempo completo o parcial),S03
+fogasa,0.2,0.0,0.2,Fondo de Garantía Salarial: paga salarios e indemnizaciones pendientes si la empresa quiebra,Solo empresa,S01
+formacion_profesional,0.6,0.1,0.7,Formación profesional para el empleo (cursos para trabajadores y desempleados),,S01
+mei_mecanismo_equidad_intergeneracional,0.75,0.15,0.9,Fondo de reserva de pensiones (se nutre para pagar las pensiones de la generación del baby boom),"2025: 0,67/0,13/0,80 (empresa/trabajador/total)",S02
+horas_extra_fuerza_mayor,12.0,2.0,14.0,Como contingencias comunes,Cotización sobre la retribución por horas extra por fuerza mayor,S03
+horas_extra_resto,23.6,4.7,28.3,Como contingencias comunes,Resto de horas extraordinarias,S03

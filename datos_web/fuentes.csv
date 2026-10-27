@@ -1,0 +1,50 @@
+fuente_id,organismo,titulo,url,tipo_fuente
+S01,Unión de Mutuas,Resumen Orden PJC/297/2026 (cotización 2026),https://www.uniondemutuas.es/wp-content/uploads/2026/04/RESUMEN-Orden-PJC2972026-de-30-de-marzo.pdf,secundaria
+S02,Cuatrecasas,Claves de la Orden de Cotización 2026,https://www.cuatrecasas.com/es/spain/laboral/art/claves-orden-cotizacion-2026,secundaria
+S03,Ibermutua,Bases y tipos de cotización a la Seguridad Social 2026,https://www.ibermutua.es/wp-content/uploads/2026/04/BASES-Y-TIPOS-DE-COTIZACION-A-LA-SEGURIDAD-SOCIAL-PARA-2026.pdf,secundaria
+S04,Agencia Tributaria,Algoritmo de retenciones IRPF 2026,https://www3.agenciatributaria.gob.es/static_files/Sede/Programas_ayuda/Retenciones/2026/ALGORITMO_2026.pdf,oficial
+S05,Guía Fiscal,Tramos IRPF 2026 (escala estatal y ahorro),https://guiafiscal.es/irpf/tramos-irpf-2026/,secundaria
+S06,Guía Fiscal,IRPF Comunidad de Madrid 2026,https://guiafiscal.es/irpf/madrid/,secundaria
+S07,Fraternidad-Muprespa,Tarifas de cotización AT/EP CNAE-2025 (1-ene-2026),https://www.fraternidad.com/cn/descargar-archivo/tarifas-de-cotizacion-de-cnae2025-1-de-enero-de-2026-3971d4bde5aa4fb4b38b87a7572a0627.pdf,secundaria
+S08,OIE,Cuánto se cobra de paro 2026,https://www.oie.es/cuanto-se-cobra-de-paro-calculo/,secundaria
+S09,Bankinter,IPREM 2026,https://www.bankinter.com/blog/economia/iprem,secundaria
+S10,Redacción Médica,Tarifas sanidad pública Madrid (Orden BOCM 30-dic-2023),https://www.redaccionmedica.com/autonomias/madrid/desde-viajar-en-ambulancia-a-una-cirugia-esto-cuesta-la-sanidad-en-madrid-4062,secundaria
+S11,Comunidad de Madrid,Memoria económico-financiera de la Orden de precios públicos sanitarios 2023,https://www.comunidad.madrid/transparencia/sites/default/files/1.3_memoria_economico-financiera_sin_firmar__0.pdf,oficial
+S12,Redacción Médica,Tarifas Osasunbidea (Navarra) 2025,https://www.redaccionmedica.com/autonomias/20250328/un-dia-de-hospitalizacion-en-una-uci-osasunbidea-vale-mas-euros/241718_0.html,secundaria
+S13,Orain / EITB,Tarifas Osakidetza (País Vasco) 2025,https://orain.eus/es/actualidad/economia/2025/01/03/cuanto-cuesta-ingreso-en-osakidetza/,secundaria
+S14,Diario de León / Sacyl,Coste noche Hospital Río Hortega 2024,https://www.saludcastillayleon.es/HRHortega/es/noticias-medios-comunicacion/12-05-2024-costes-sanidad,secundaria
+S15,Alicante Plaza (Europa Press),Coste anual por cama de hospital agudo SNS 2022 (Min. Sanidad),https://alicanteplaza.es/alicanteplaza/elcosteanualdelascamasdehospitalesaumentaun17enespaaenmenosde10aos,secundaria
+S16,Ministerio de Sanidad,Datos del SNS (DATOS_SNS_07_2025),https://www.sanidad.gob.es/estadEstudios/portada/docs/DATOS_SNS_07_2025.pdf,oficial
+S17,Selectra,Precio de la consulta médica privada,https://selectra.es/seguros/seguros-salud/precio-consulta-privada,secundaria
+S18,CuantoMeCuesta,Médico de cabecera (mayo 2026),https://cuantomecuesta.com/es/medico-cabecera/,secundaria
+S19,CuantoMeCuesta,Parto en clínica privada (abril 2026),https://cuantomecuesta.com/es/parto/,secundaria
+S20,El Español,Gasto público en educación (Indicadores comentados 2026),https://www.elespanol.com/observatorio-educacion/20260925/gasto-publico-educacion-espana-cae-decimas-pib-detras-media-ocde/1003744396390_0.html,secundaria
+S21,Ministerio de Educación (INEE),Gasto por alumno 2019 (f2.pdf),https://educacionfpydeportes.gob.es/inee/dam/jcr:90fccd93-fc2a-44f2-a263-5bb41a1737a0/f2.pdf,oficial
+S22,Comunidad de Madrid,Precios públicos universitarios 2025-26 (Decreto 43/2022),https://www.comunidad.madrid/node/74905,oficial
+S23,Bankinter,Cuánto cuesta una carrera en España (2024-25),https://www.bankinter.com/blog/finanzas-personales/cuanto-cuesta-carrera-espana,secundaria
+S24,Micole,Cuánto cuesta un colegio privado en Madrid 2026,https://www.micole.net/articulos/escolarizacion-y-eleccion-de-centro/costes-y-cuotas-entender-la-financiacion/cuanto-cuesta-colegio-privado-madrid-2026,secundaria
+S25,The Objective (informe CICAE),Cuotas de colegios concertados 2025,https://theobjective.com/sociedad/educacion/2025-10-02/colegios-concertados-cuotas-obligatorias/,secundaria
+S26,Adams,Cuánto cuesta una FP,https://www.adams.es/noticias/formacion-profesional/general/cuanto-cuesta-fp/,secundaria (parte interesada)
+S27,Consorcio Regional de Transportes de Madrid,Memoria 2024,https://www.crtm.es/media/iutdhsdu/crtm-memoria2024.pdf,oficial
+S28,Consorcio Regional de Transportes de Madrid,Nota de prensa precios 2026 (29-dic-2025),https://crtm.es/comunicacion/sala-de-prensa/noticias/noticias/29122025-la-comunidad-de-madrid-mantiene-los-precios-del-transporte-publico/,oficial
+S29,RedTransporte,Precios de billetes y abonos Madrid 2026,https://www.redtransporte.com/madrid/precios-abonos.html,secundaria
+S30,Observatorio de la Movilidad Metropolitana,Resumen informe OMM 2023-24,https://observatoriomovilidad.es/wp-content/uploads/2026/03/2025-Resumen-2023.24-ESP.pdf,oficial
+S31,INE,Contabilidad Nacional Anual de España 2025 (18-sep-2026),https://www.ine.es/dyngs/Prensa/CNA2025.htm,oficial
+S32,Eurostat,"nama_10_gdp (PIB España, B1GQ CP_MEUR y CLV_PCH_PRE)",https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nama_10_gdp,oficial
+S33,Seguridad Social,Pensiones contributivas septiembre 2026,https://revista.seg-social.es/-/pensiones-septiembre-2026,oficial
+S34,Ministerio de Trabajo (MITES),"Anuario de Estadísticas 2024, Pensiones (PEN)",https://www.mites.gob.es/ficheros/ministerio/estadisticas/anuarios/2024/PEN/PEN.pdf,oficial
+S35,La Moncloa,Pensiones 2026: subida y revalorización,https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/subida-pensiones-2026.aspx,oficial
+S36,IGAE,Gasto de las AAPP por funciones (COFOG) 2020-2024,https://www.igae.pap.hacienda.gob.es/sitios/igae/es-ES/Contabilidad/ContabilidadNacional/Publicaciones/Documents/AAPP_A/Funcional%202020-2024.pdf,oficial
+S37,El Español,"Jubilados por tramos de pensión (INSS, 1-jul-2026)",https://www.elespanol.com/sociedad/20260820/oficial-millones-jubilados-cobran-pension-euros-mes-espana-td/1003744357533_0.amp.html,secundaria
+S38,UPTA,Resolución de cotización 2026 RETA (tabla de tramos y tipos),https://upta.es/wp-content/uploads/2026/03/RES-ORDEN-COTIZACION-2026-RETA.pdf,secundaria
+S39,Agencia Tributaria,"Estimación directa simplificada (gastos de difícil justificación, límite de ingresos)",https://sede.agenciatributaria.gob.es/Sede/irpf/empresarios-individuales-profesionales/regimenes-determinar-rendimiento-actividad/estimacion-directa-simplificada.html,oficial
+S40,Infoautónomos / Asesoratepymes / Taxfii,Cuota de autónomos 2026: cálculo del rendimiento neto (deducción del 7 % por gastos genéricos),https://www.infoautonomos.com/seguridad-social/cuota-de-autonomos-cuanto-se-paga/ · https://www.asesoratepymes.com/cuota-autonomos-2026-tabla-tramos/ · https://www.taxfii.com/guias/cuota-autonomos-2026/,secundaria
+S41,Taxdown,"¿Los autónomos tienen paro? Prestación por cese de actividad (duración, 70 %, topes)",https://taxdown.es/informacion-autonomos/los-autonomos-tienen-paro,secundaria
+S42,Grupo 2000,"Cese de actividad de autónomos (duración, cuantías con IPREM + 1/6)",https://www.grupo2000.es/?p=1347,secundaria
+S43,VidaCaixa,"Guía del paro de autónomos (cotización mínima de 12 meses, ventana de 48 meses)",https://www.vidacaixa.es/articulos/finanzas-y-ahorro/guia-paro-autonomos,secundaria
+S44,Instituto Cántabro de Estadística (ICANE) · datos del Ministerio de Vivienda (MIVAU),"Valor tasado de la vivienda libre, €/m², total nacional, trimestral 1995–2026 (se promedia por año)",https://www.icane.es/data/api/metro-cuadrado-tasado-vivienda.csv,secundaria
+S45,Banco de España,"Indicadores del mercado inmobiliario (cuadro 1.5): accesibilidad (precio de la vivienda / renta bruta disponible por hogar, esfuerzo teórico anual) y valor tasado",https://www.bde.es/webbe/es/estadisticas/compartido/datos/pdf/si_1_5.pdf,oficial
+S46,Ministerio de Vivienda y Agenda Urbana,"SERPAVI: Sistema Estatal de Referencia del Precio del Alquiler de Vivienda, tablas por CCAA, datos 2022 (publicado 26/02/2024)",https://cdn.mivau.gob.es/portal-web-mivau/vivienda/serpavi/2024-02-26_tablas_resumen_sistema-estatal-alquiler_ccaa.pdf,oficial
+S47,INE,"Índice de Precios de Vivienda en Alquiler (IPVA), tabla 59056, medias anuales base 2015 = 100",https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/59056,oficial
+S48,INE,"Contabilidad Nacional Anual de España, tabla 69070 «Valor añadido bruto» por ramas de actividad (Revisión Estadística 2024; 2024 provisional, 2025 avance; publicada 30-sep-2026)",https://servicios.ine.es/wstempus/js/ES/DATOS_TABLA/69070,oficial
+S99,Elaboración propia,Cálculo derivado de datos de otras filas (la fórmula va en 'nota'),,propia

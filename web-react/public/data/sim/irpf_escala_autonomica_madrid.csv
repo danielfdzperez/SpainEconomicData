@@ -1,0 +1,6 @@
+desde,hasta,tipo_pct,cuota_acumulada_en_desde,fuente_id,tipo_dato,nota
+0,13362,8.5,0.0,S06,oficial_secundaria,"Umbrales redondeados al euro por la fuente (el BOCM usa decimales: 13.362,22; 19.004,63; 35.425,68; 57.320,40 - verificar). Tipo marginal combinado maximo Madrid = 24,5+20,5 = 45%"
+13362,19005,10.7,1135.77,S06,oficial_secundaria,"Umbrales redondeados al euro por la fuente (el BOCM usa decimales: 13.362,22; 19.004,63; 35.425,68; 57.320,40 - verificar). Tipo marginal combinado maximo Madrid = 24,5+20,5 = 45%"
+19005,35426,12.8,1739.57,S06,oficial_secundaria,"Umbrales redondeados al euro por la fuente (el BOCM usa decimales: 13.362,22; 19.004,63; 35.425,68; 57.320,40 - verificar). Tipo marginal combinado maximo Madrid = 24,5+20,5 = 45%"
+35426,57320,17.4,3841.46,S06,oficial_secundaria,"Umbrales redondeados al euro por la fuente (el BOCM usa decimales: 13.362,22; 19.004,63; 35.425,68; 57.320,40 - verificar). Tipo marginal combinado maximo Madrid = 24,5+20,5 = 45%"
+57320,,20.5,7651.01,S06,oficial_secundaria,"Umbrales redondeados al euro por la fuente (el BOCM usa decimales: 13.362,22; 19.004,63; 35.425,68; 57.320,40 - verificar). Tipo marginal combinado maximo Madrid = 24,5+20,5 = 45%"

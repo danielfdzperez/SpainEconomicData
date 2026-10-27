@@ -1,0 +1,4 @@
+tramo_desde_eur_mes,tramo_hasta_eur_mes,tipo_total_pct,tipo_empresa_pct,tipo_trabajador_pct,tipo_total_2025_pct,fuente_id,nota
+5101.21,5611.32,1.15,0.96,0.19,0.92,S02,"Se aplica solo a la parte de la retribución que supera el tope máximo de cotización (5.101,20 EUR/mes)"
+5611.33,7651.8,1.25,1.04,0.21,1.0,S02,
+7651.81,,1.46,1.22,0.24,1.17,S02,"Exceso sobre 7.651,80"

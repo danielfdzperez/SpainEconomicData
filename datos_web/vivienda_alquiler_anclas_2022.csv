@@ -1,0 +1,5 @@
+territorio,anio,concepto,valor,unidad,fuente_id,tipo_dato,nota
+Madrid,2022,renta_media_piso,11.1,EUR/m2/mes,S46,oficial_secundaria,"Comunidad de Madrid, vivienda colectiva (pisos), contratos de alquiler declarados (SERPAVI 2022)"
+Madrid,2022,cuantia_media_piso,738,EUR/mes,S46,oficial_secundaria,"Comunidad de Madrid, vivienda colectiva (pisos), cuantía mensual media (SERPAVI 2022; P25 600, P75 945)"
+España,2022,renta_media_piso,7.83,EUR/m2/mes,S99,derivado,SERPAVI no publica el total nacional: media de las 17 CCAA con dato ponderada por su número de contratos de pisos (sin Navarra ni País Vasco). Fórmula: suma(contratos × renta) / suma(contratos)
+España,2022,cuantia_media_piso,567.81,EUR/mes,S99,derivado,"Igual que la fila anterior, con la cuantía mensual media de cada CCAA (sin Navarra ni País Vasco)"

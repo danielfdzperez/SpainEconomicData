@@ -1,0 +1,10 @@
+importe_desde_eur_mes,importe_hasta_eur_mes,tramo,n_pensiones_total,n_pensiones_jubilacion,pct_total,pct_jubilacion,pct_acumulado_total,pct_acumulado_jubilacion,fuente_id,tipo_dato,nota
+0,150.0,Hasta 150,144835,80828,1.42,1.25,1.42,1.25,S34,oficial,Media anual 2024; porcentajes derivados
+150.01,500.0,"150,01 - 500",996361,319612,9.78,4.93,11.2,6.17,S34,oficial,Media anual 2024; porcentajes derivados
+500.01,1000.0,"500,01 - 1.000",4068745,2286418,39.93,35.26,51.13,41.43,S34,oficial,Media anual 2024; porcentajes derivados
+1000.01,1134.0,"1.000,01 - SMI 2024 (1.134)",811646,551801,7.97,8.51,59.1,49.94,S34,oficial,Media anual 2024; porcentajes derivados
+1134.01,1500.0,SMI - 1.500,1289862,848161,12.66,13.08,71.76,63.02,S34,oficial,Media anual 2024; porcentajes derivados
+1500.01,1800.0,"1.500,01 - 1.800",745486,536650,7.32,8.28,79.08,71.29,S34,oficial,Media anual 2024; porcentajes derivados
+1800.01,2000.0,"1.800,01 - 2.000",380145,278104,3.73,4.29,82.81,75.58,S34,oficial,Media anual 2024; porcentajes derivados
+2000.01,3175.04,"2.000,01 - pensión máxima 2024 (3.175,04)",1637598,1479084,16.07,22.81,98.88,98.39,S34,oficial,Media anual 2024; porcentajes derivados
+3175.05,,"Superior a 3.175,04",114140,104327,1.12,1.61,100.0,100.0,S34,oficial,Media anual 2024; porcentajes derivados

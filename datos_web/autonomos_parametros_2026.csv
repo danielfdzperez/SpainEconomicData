@@ -1,0 +1,15 @@
+parametro,valor,unidad,descripcion,fuente_id,tipo_dato
+tipo_contingencias_comunes,28.3,%,Tipo de cotización del RETA por contingencias comunes,S38,oficial_secundaria
+tipo_contingencias_profesionales,1.3,%,Contingencias profesionales (accidente de trabajo y enfermedad profesional),S38,oficial_secundaria
+tipo_cese_actividad,0.9,%,Cese de actividad (el «paro» del autónomo),S38,oficial_secundaria
+tipo_formacion_profesional,0.1,%,Formación profesional,S38,oficial_secundaria
+tipo_mei,0.9,%,Mecanismo de Equidad Intergeneracional,S38,oficial_secundaria
+tipo_total,31.5,%,"Suma de los cinco tipos; contraste con S03 (31,50 %)",S38,oficial_secundaria
+deduccion_gastos_genericos_cotizacion,7,%,"Se resta a (ingresos - gastos) para hallar el rendimiento que fija el tramo; 3 % para autónomos societarios. La cuota del RETA no se resta. Tres guías secundarias dan el 7 % y una el 5 %: verificar en la Seguridad Social",S40,oficial_secundaria
+gastos_dificil_justificacion_pct,5,%,"IRPF, estimación directa simplificada: porcentaje sobre el rendimiento neto positivo",S39,oficial
+gastos_dificil_justificacion_max,2000,EUR/año,"IRPF, estimación directa simplificada: máximo anual",S39,oficial
+limite_ingresos_simplificada,600000,EUR/año,Importe neto de la cifra de negocios del año anterior para poder usar la estimación directa simplificada,S39,oficial
+cese_porcentaje_base_reguladora,70,%,Prestación por cese de actividad sobre la base reguladora (12 últimos meses),S41,oficial_secundaria
+cese_minimo_meses_cotizados,12,meses,"Cotizados por cese de actividad, de forma continuada e inmediatamente anterior al cese",S43,oficial_secundaria
+cese_ventana_duracion_meses,48,meses,Periodo de cotización por cese de actividad que se mira para fijar la duración,S43,oficial_secundaria
+cese_base_reguladora_meses,12,meses,Media de las bases de cotización de los últimos 12 meses,S41,oficial_secundaria

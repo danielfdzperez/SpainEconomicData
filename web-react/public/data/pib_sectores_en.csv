@@ -1,0 +1,29 @@
+rama_id,rama,rama_corta
+pib,GDP at market prices,GDP
+agricultura,"Agriculture, livestock, forestry and fishing",Agriculture and fishing
+industria,Industry,Industry
+construccion,Construction,Construction
+servicios,Services,Services
+impuestos,Net taxes on products,Taxes on products
+ind_manufacturera,Manufacturing,Manufacturing
+ind_energia,"Electricity, gas and steam supply","Energy (electricity, gas)"
+ind_agua,"Water supply, sanitation and waste",Water and waste
+ind_extractivas,Mining and quarrying,Mining
+srv_comercio_transporte_hosteleria,"Trade, transport and hospitality","Trade, transport and hospitality"
+srv_informacion,Information and communications,Information and communications
+srv_financieras,Financial and insurance activities,Finance and insurance
+srv_inmobiliarias,Real estate activities,Real estate
+srv_profesionales,"Professional, scientific, technical and administrative activities",Professional and administrative
+srv_publicos,"Public administration, education, health and social services","Public admin., education and health"
+srv_otros,"Arts, other services and households","Arts, other and households"
+srv_comercio,Wholesale and retail trade; repair of vehicles,Trade
+srv_transporte,Transport and storage,Transport and storage
+srv_hosteleria,Hospitality,Hospitality
+srv_prof_cientificas,"Professional, scientific and technical activities","Professional, scientific and technical"
+srv_administrativas,Administrative and support service activities,Administrative and support
+srv_aapp,Public administration and defence; Social Security,Public admin. and Social Security
+srv_educacion,Education,Education
+srv_sanidad,Health and social services activities,Health and social services
+srv_artisticas,"Arts, recreation and entertainment activities",Arts and leisure
+srv_otros_servicios,Other services,Other services
+srv_hogares,Households as employers of domestic staff and producers for own use,Households as employers

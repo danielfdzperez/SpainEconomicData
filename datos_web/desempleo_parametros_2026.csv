@@ -1,0 +1,15 @@
+parametro,valor,unidad,descripcion,fuente_id,tipo_dato
+porcentaje_base_primeros_180_dias,70,%,"Sobre la base reguladora, días 1 a 180",S08,oficial_secundaria
+porcentaje_base_desde_dia_181,60,%,"Sobre la base reguladora, desde el día 181",S08,oficial_secundaria
+base_reguladora,media de la base de cotización por contingencias profesionales de los últimos 180 días (sin horas extra),,"Definición legal (art. 270 LGSS); no figura en la fuente web, es conocimiento general",S99,texto descriptivo
+iprem_mensual_12_pagas,600,EUR/mes,Congelado desde 2023,S09,oficial_secundaria
+iprem_anual_12_pagas,7200,EUR/año,,S09,oficial_secundaria
+iprem_anual_14_pagas,8400,EUR/año,,S09,oficial_secundaria
+iprem_con_prorrata_pagas_extra,700,EUR/mes,IPREM x 14/12; es la referencia de los topes (derivado),S99,derivado
+cuantia_minima_sin_hijos,560,EUR/mes,= 80% x 700,S08,oficial_secundaria
+cuantia_minima_con_hijos,749,EUR/mes,= 107% x 700,S08,oficial_secundaria
+cuantia_maxima_sin_hijos,1225,EUR/mes,= 175% x 700,S08,oficial_secundaria
+cuantia_maxima_1_hijo,1400,EUR/mes,= 200% x 700,S08,oficial_secundaria
+cuantia_maxima_2_o_mas_hijos,1575,EUR/mes,= 225% x 700,S08,oficial_secundaria
+minimo_cotizado_para_tener_derecho,360,dias,En los últimos 6 años,S08,oficial_secundaria
+maximo_duracion,720,dias,24 meses con >= 2.160 días cotizados,S08,oficial_secundaria

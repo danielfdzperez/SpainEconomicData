@@ -1,0 +1,23 @@
+parametro,valor,unidad,descripcion,fuente_id,tipo_dato
+gasto_deducible_general,2000,EUR/año,Otros gastos deducibles del rendimiento del trabajo,S04,oficial
+gasto_movilidad_geografica,2000,EUR/año,Incremento adicional por movilidad geográfica (si procede),S04,oficial
+gasto_discapacidad_33_65,3500,EUR/año,Incremento trabajadores activos con discapacidad 33%-65%,S04,oficial
+gasto_discapacidad_65_o_movilidad_reducida,7750,EUR/año,Incremento trabajadores activos con discapacidad >=65% o 33-65% con movilidad reducida,S04,oficial
+gasto_deducible_maximo_total,11750,EUR/año,Máximo de otros gastos,S04,oficial
+reduccion_rt_umbral1,14852.0,EUR,Si rendimiento neto del trabajo (RNT) <= umbral1: reducción 7.302,S04,oficial
+reduccion_rt_importe_max,7302.0,EUR,Reducción máxima por rendimientos del trabajo,S04,oficial
+reduccion_rt_umbral2,17673.52,EUR,"Entre umbral1 y umbral2: 7.302 - 1,75*(RNT-14.852)",S04,oficial
+reduccion_rt_coef_tramo2,1.75,,"Coeficiente tramo 14.852-17.673,52",S04,oficial
+reduccion_rt_valor_en_umbral2,2364.34,EUR,"Valor de la reducción en 17.673,52",S04,oficial
+reduccion_rt_umbral3,19747.5,EUR,"Entre umbral2 y umbral3: 2.364,34 - 1,14*(RNT-17.673,52); a partir de umbral3 la reducción es 0",S04,oficial
+reduccion_rt_coef_tramo3,1.14,,"Coeficiente tramo 17.673,52-19.747,50",S04,oficial
+minimo_personal_estatal,5550,EUR,Mínimo del contribuyente (se aplica a la escala: cuota = escala(base) - escala(mínimo)),S04,oficial
+minimo_personal_madrid_autonomico,5956.65,EUR,"Mínimo del contribuyente a efectos de la escala autonómica de Madrid (una sola fuente secundaria; baja confianza, verificar en BOCM/AEAT)",S06,oficial_secundaria
+complemento_minimo_65_anos,1150,EUR,Aumento por edad >64 años (mínimo total 6.700),S04,oficial
+complemento_minimo_75_anos,1400,EUR,Aumento adicional por edad >74 años (mínimo total 8.100),S04,oficial
+reduccion_retencion_pensionista,600,EUR,Pensionista SS o Clases Pasivas (algoritmo de retención),S04,oficial
+reduccion_retencion_desempleado,1200,EUR,Desempleado (algoritmo de retención),S04,oficial
+limite_no_retener_sin_hijos_situacion2,17197,EUR/año,"Por debajo no se retiene (situación familiar 2, 0 descendientes)",S04,oficial
+limite_no_retener_sin_hijos_situacion3,15876,EUR/año,"Por debajo no se retiene (situación familiar 3, 0 descendientes)",S04,oficial
+limite_no_retener_maximo_general,19262,EUR/año,Umbral general máximo de la tabla 1 (art. 81 RIRPF),S04,oficial
+tipo_marginal_maximo_madrid,45.0,%,"24,5% estatal + 20,5% autonómico (Madrid es de las CCAA con tipo máximo más bajo)",S05,oficial_secundaria

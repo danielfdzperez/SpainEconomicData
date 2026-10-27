@@ -1,0 +1,7 @@
+parametro,valor,unidad,descripcion,fuente_id
+tope_maximo_cotizacion_mensual,5101.2,EUR/mes,"Base máxima grupos 1-7 (2025: 4.909,50)",S01
+tope_maximo_cotizacion_anual,61214.4,EUR/año,"= 5.101,20 x 12 (derivado)",S99
+base_minima_grupos_4_a_7_mensual,1424.4,EUR/mes,También mínimo para AT/EP,S01
+cotizacion_adicional_contrato_menos_30_dias,33.62,EUR,"Pago fijo de la empresa al terminar contratos < 30 días (2025: 32,60)",S02
+smi_2026_mensual_14_pagas,1221,EUR/mes,SMI 2026 (ver 02_Salarios.xlsx),S99
+smi_2026_anual,17094,EUR/año,SMI 2026 x 14 pagas (ver 02_Salarios.xlsx),S99

@@ -1,0 +1,3 @@
+tipo_contrato,porcentaje_trabajador,porcentaje_empresa_sin_at_ep,porcentaje_empresa_con_at_ep_min,porcentaje_empresa_con_at_ep_max,fuente_id,nota
+indefinido,6.5,30.65,32.15,37.35,S99,"Trabajador = CC 4,70 + desempleo 1,55 + FP 0,10 + MEI 0,15. Empresa = CC 23,60 + desempleo 5,50 + FOGASA 0,20 + FP 0,60 + MEI 0,75; AT/EP entre 1,50% (oficina/hostelería) y 6,70% (construcción) según CNAE"
+temporal,6.55,31.85,33.35,38.55,S99,"Igual con desempleo temporal 6,70/1,60. Más 33,62 EUR fijos si el contrato dura < 30 días"

@@ -1,0 +1,8 @@
+tributo,quien_paga,base,para_que_se_usa,administracion_destinataria,fuente_id,tipo_dato
+IRPF (retención en nómina),Trabajador,"Retribución bruta menos cotizaciones, gastos y reducciones; escala progresiva estatal + autonómica","Ingresos generales: financian sanidad, educación, servicios públicos, defensa, seguridad, etc. No está afectado a un gasto concreto",Estado (tarifa estatal) y Comunidad Autónoma (tarifa autonómica),S99,texto descriptivo (LIRPF)
+"Cotización contingencias comunes (trabajador 4,70%)",Trabajador,Base de cotización,"Pensiones contributivas y prestaciones de enfermedad común, maternidad/paternidad",Seguridad Social (reparto: financia las pensiones actuales),S99,texto descriptivo (LGSS)
+"Cotización desempleo (trabajador 1,55%/1,60%)",Trabajador,Base de cotización,Prestación por desempleo,SEPE,S99,texto descriptivo (LGSS)
+"Formación profesional (0,10%)",Trabajador,Base de cotización,Formación para el empleo,Fundae/SEPE,S99,texto descriptivo
+"MEI (0,15% trabajador / 0,75% empresa)",Ambos,Base de cotización,Fondo de reserva que sostendrá las pensiones con la jubilación del baby boom,Seguridad Social,S02,texto descriptivo
+"FOGASA (0,20% solo empresa)",Empresa,Base de cotización,Garantiza salarios e indemnizaciones si la empresa no paga,FOGASA,S01,texto descriptivo
+AT/EP (solo empresa),Empresa,Base de cotización por contingencias profesionales,"Incapacidad temporal por accidente de trabajo, incapacidad permanente, muerte y supervivencia",Mutuas colaboradoras / INSS,S07,texto descriptivo

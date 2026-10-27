@@ -1,0 +1,8 @@
+meses_cotizados_desde,meses_cotizados_hasta,meses_prestacion,fuente_id,tipo_dato,nota
+12,17,4,S41,oficial_secundaria,"Tres guías coinciden (S41, S42, S43)"
+18,23,6,S41,oficial_secundaria,
+24,29,8,S41,oficial_secundaria,
+30,35,10,S41,oficial_secundaria,
+36,42,12,S41,oficial_secundaria,
+43,47,16,S41,oficial_secundaria,
+48,,24,S41,oficial_secundaria,"48 meses o más"

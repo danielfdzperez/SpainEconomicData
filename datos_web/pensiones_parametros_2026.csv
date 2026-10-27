@@ -1,0 +1,13 @@
+parametro,valor,unidad,descripcion,fuente_id,tipo_dato
+revalorizacion_general,2.7,%,Pensiones contributivas y Clases Pasivas,S35,oficial
+pension_maxima_anual,47034.4,EUR/año,"3.359,60 x 14 pagas",S35,oficial
+pension_minima_jubilacion_65_sin_conyuge_anual,12441.8,EUR/año,,S35,oficial
+pension_minima_jubilacion_65_sin_conyuge_mensual_14,888.7,EUR/mes,= anual / 14 (derivado),S99,derivado
+pension_minima_jubilacion_65_con_conyuge_anual,17592.4,EUR/año,,S35,oficial
+pension_minima_jubilacion_65_con_conyuge_mensual_14,1256.6,EUR/mes,= anual / 14 (derivado),S99,derivado
+pension_minima_jubilacion_menor_65_sin_conyuge_anual,11590,EUR/año,,S35,oficial
+pension_minima_jubilacion_menor_65_sin_conyuge_mensual_14,827.86,EUR/mes,= anual / 14 (derivado),S99,derivado
+pension_minima_jubilacion_menor_65_con_conyuge_anual,17592.4,EUR/año,,S35,oficial
+pension_no_contributiva_anual,8803.2,EUR/año,Invalidez y jubilación,S35,oficial
+pension_no_contributiva_mensual_14,628.8,EUR/mes,= anual / 14 (derivado),S99,derivado
+pagas_por_año,14,,Doce mensualidades + dos extraordinarias,S99,texto descriptivo

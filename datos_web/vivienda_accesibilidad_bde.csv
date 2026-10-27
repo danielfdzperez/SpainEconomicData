@@ -1,0 +1,9 @@
+periodo,indicador,valor,unidad,fuente_id,tipo_dato,nota
+2023,precio_vivienda_renta_bruta_hogar,7.1,anios,S45,oficial,Media del periodo (nota (a) de la fuente). La página no define el indicador con más detalle
+2023,esfuerzo_teorico_anual,36.5,pct,S45,oficial,Media del periodo (nota (a) de la fuente)
+2024,precio_vivienda_renta_bruta_hogar,7.1,anios,S45,oficial,Media del periodo (nota (a) de la fuente). La página no define el indicador con más detalle
+2024,esfuerzo_teorico_anual,34.5,pct,S45,oficial,Media del periodo (nota (a) de la fuente)
+2025,precio_vivienda_renta_bruta_hogar,7.6,anios,S45,oficial,Media del periodo (nota (a) de la fuente). La página no define el indicador con más detalle
+2025,esfuerzo_teorico_anual,34.3,pct,S45,oficial,Media del periodo (nota (a) de la fuente)
+2026-II,precio_vivienda_renta_bruta_hogar,8.4,anios,S45,oficial,Media del periodo (nota (a) de la fuente). La página no define el indicador con más detalle
+2026-II,esfuerzo_teorico_anual,38.0,pct,S45,oficial,Media del periodo (nota (a) de la fuente)

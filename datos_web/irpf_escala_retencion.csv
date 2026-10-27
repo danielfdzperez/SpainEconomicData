@@ -1,0 +1,7 @@
+desde,hasta,tipo_pct,cuota_acumulada_en_desde,fuente_id,tipo_dato,nota
+0,12450,19.0,0.0,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final
+12450,20200,24.0,2365.5,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final
+20200,35200,30.0,4225.5,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final
+35200,60000,37.0,8725.5,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final
+60000,300000,45.0,17901.5,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final
+300000,,47.0,125901.5,S04,oficial,Tabla 2 del algoritmo de retenciones 2026. Es la escala que usa la empresa para retener en nomina; no es el impuesto final

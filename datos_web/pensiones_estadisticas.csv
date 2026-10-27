@@ -1,0 +1,54 @@
+indicador,valor,unidad,periodo,fuente_id,tipo_dato,nota
+n_pensiones_contributivas_total,10547417,pensiones,sep-2026,S33,oficial,
+n_pensiones_jubilacion,6800000,pensiones,sep-2026,S33,oficial,"'Casi 6,8 millones'"
+n_pensiones_viudedad,2300000,pensiones,sep-2026,S33,oficial,"'Más de 2,3 millones'"
+n_pensiones_incapacidad_permanente,1100000,pensiones,sep-2026,S33,oficial,Aprox.
+n_pensiones_orfandad,335900,pensiones,sep-2026,S33,oficial,
+n_pensiones_favor_familiar,46985,pensiones,sep-2026,S33,oficial,
+n_pensionistas_aprox,9500000,personas,sep-2026,S33,oficial,"'Más de 9,5 millones'; una persona puede cobrar varias pensiones"
+nomina_mensual_total,14498.2,millones EUR,sep-2026,S33,oficial,Nómina mensual de septiembre
+nomina_mensual_jubilacion,10654.6,millones EUR,sep-2026,S33,oficial,"73,5% de la nómina"
+nomina_mensual_viudedad,2288.4,millones EUR,sep-2026,S33,oficial,
+nomina_mensual_incapacidad_permanente,1330.9,millones EUR,sep-2026,S33,oficial,
+nomina_mensual_orfandad,185.5,millones EUR,sep-2026,S33,oficial,
+nomina_mensual_favor_familiar,38.8,millones EUR,sep-2026,S33,oficial,
+pension_media_total,1374.6,EUR/mes,sep-2026,S33,oficial,"+4,6% interanual"
+pension_media_jubilacion,1576.1,EUR/mes,sep-2026,S33,oficial,"+4,5% interanual"
+pension_media_viudedad,976.3,EUR/mes,jul-2026,S33,oficial,
+pension_media_nuevas_altas_jubilacion,1711.4,EUR/mes,ago-2026,S33,oficial,
+pension_media_jubilacion_regimen_general,1734.7,EUR/mes,sep-2026,S33,oficial,
+pension_media_jubilacion_autonomos,1062.8,EUR/mes,sep-2026,S33,oficial,
+pension_media_jubilacion_mineria_carbon,3005.7,EUR/mes,sep-2026,S33,oficial,
+pension_media_jubilacion_regimen_mar,1741.2,EUR/mes,sep-2026,S33,oficial,
+edad_media_acceso_jubilacion,65.4,años,2026,S33,oficial,"64,4 en 2019"
+pension_media_total,1255.43,EUR/mes,2024 (media anual),S34,oficial,
+pension_media_jubilacion,1442.67,EUR/mes,2024 (media anual),S34,oficial,
+pension_media_incapacidad_permanente,1163.05,EUR/mes,2024 (media anual),S34,oficial,
+pension_media_viudedad,896.25,EUR/mes,2024 (media anual),S34,oficial,
+pension_media_orfandad,502.11,EUR/mes,2024 (media anual),S34,oficial,
+pension_media_favor_familiar,741.33,EUR/mes,2024 (media anual),S34,oficial,
+n_pensiones_total,10188818,pensiones,2024 (media anual),S34,oficial,
+n_pensiones_jubilacion,6484984,pensiones,2024 (media anual),S34,oficial,
+pension_maxima_mensual,3175.04,EUR/mes,2024,S34,oficial,14 pagas
+pension_maxima_mensual,3359.6,EUR/mes,"2026 (provisional, prorrogados PGE)",S35,oficial,"14 pagas; 47.034,40 EUR/año"
+pension_mediana_total_estimada,986.0,EUR/mes,2024,S99,estimacion_propia,Interpolada de los tramos PEN-8
+pension_mediana_jubilacion_estimada,1136.0,EUR/mes,2024,S99,estimacion_propia,"Interpolada de los tramos PEN-8 (coincide con el SMI de 2024, 1.134 EUR)"
+moda_tramo_total,"500,01 - 1.000",EUR/mes,2024,S99,derivado,"Tramo con más pensiones (4.068.745; 39,9%) y mayor densidad por euro"
+moda_tramo_jubilacion,"500,01 - 1.000",EUR/mes,2024,S99,derivado,"Tramo con más jubilaciones (2.286.418; 35,3%)"
+n_jubilaciones_hombres,3900801,pensiones,1-jul-2026,S37,oficial_secundaria,
+n_jubilaciones_mujeres,2828288,pensiones,1-jul-2026,S37,oficial_secundaria,
+n_jubilaciones_2000_euros_o_mas,1871962,pensiones,1-jul-2026,S37,oficial_secundaria,"27,8% de las jubilaciones (derivado de 1.871.962 / 6.729.089)"
+n_pensiones_clases_pasivas,740431,pensiones,ago-2026,S33,oficial,Fuera de la Seguridad Social
+nomina_clases_pasivas_mensual,1774.1,millones EUR,ago-2026,S33,oficial,
+gasto_pensiones_total,206130,millones EUR,2024,S36,oficial,"Dentro de ello, fondos de la Seguridad Social: 184.055"
+gasto_cofog_proteccion_social,297532,millones EUR,2024,S36,oficial,"Incluye pensiones, desempleo, familia, exclusión"
+percentil_10_todas_las_pensiones,457.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8 (datos agrupados); error de decenas de euros
+percentil_25_todas_las_pensiones,673.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8 (datos agrupados); error de decenas de euros
+percentil_50_todas_las_pensiones,986.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8 (datos agrupados); error de decenas de euros
+percentil_75_todas_las_pensiones,1633.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8 (datos agrupados); error de decenas de euros
+percentil_90_todas_las_pensiones,2526.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8 (datos agrupados); error de decenas de euros
+percentil_10_jubilacion,554.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8
+percentil_25_jubilacion,767.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8
+percentil_50_jubilacion,1136.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8
+percentil_75_jubilacion,1973.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8
+percentil_90_jubilacion,2743.0,EUR/mes,2024,S99,estimacion_propia,Interpolación lineal dentro de los tramos de PEN-8

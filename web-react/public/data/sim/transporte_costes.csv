@@ -1,0 +1,24 @@
+indicador,territorio,valor,unidad,anio,fuente_id,tipo_dato,nota
+viajes_totales,Madrid (CRTM),1722.6,millones de viajes,2024,S27,oficial,"+7,2% sobre 2023"
+ingresos_tarifarios,Madrid (CRTM),526.08,millones EUR,2024,S27,oficial,"Recaudación por venta de títulos 478,23 M (otra base de cálculo)"
+gastos_totales_del_sistema,Madrid (CRTM),2742.97,millones EUR,2024,S27,oficial,"Según resultado económico; presupuesto liquidado 2.679,64"
+aportaciones_administraciones_total,Madrid (CRTM),2351.84,millones EUR,2024,S27,oficial,
+aportacion_comunidad_de_madrid,Madrid (CRTM),1913.23,millones EUR,2024,S27,oficial,81% de las aportaciones
+aportacion_ayuntamiento_madrid,Madrid (CRTM),277.34,millones EUR,2024,S27,oficial,
+aportacion_estado,Madrid (CRTM),126.89,millones EUR,2024,S27,oficial,
+aportacion_otras_administraciones,Madrid (CRTM),34.37,millones EUR,2024,S27,oficial,
+coste_medio_por_viaje,Madrid (CRTM),1.65,EUR/viaje,2024,S27,oficial,Necesidades medias del sistema por viaje (sin títulos propios de Renfe Cercanías)
+pago_medio_usuario_por_viaje,Madrid (CRTM),0.32,EUR/viaje,2024,S27,oficial,Recaudación media por viaje
+subvencion_media_por_viaje,Madrid (CRTM),1.33,EUR/viaje,2024,S27,oficial,Aportación media de las administraciones por viaje
+porcentaje_pagado_por_el_usuario,Madrid (CRTM),19.4,%,2024,S99,derivado,"= 0,32 / 1,65"
+porcentaje_subvencionado,Madrid (CRTM),80.6,%,2024,S99,derivado,"= 1,33 / 1,65"
+cobertura_tarifaria_sobre_coste,Madrid (CRTM),19.2,%,2024,S99,derivado,"= 526,08 / 2.742,97"
+ratio_cobertura_ingresos_costes,Madrid (OMM),20,%,2023,S30,oficial,Observatorio de la Movilidad Metropolitana
+ratio_cobertura_ingresos_costes,Barcelona (OMM),54,%,2023,S30,oficial,
+ratio_cobertura_ingresos_costes,Asturias (OMM),103,%,2023,S30,oficial,
+ratio_cobertura_ingresos_costes,Camp de Tarragona (OMM),12,%,2023,S30,oficial,
+ratio_cobertura_ingresos_costes,Media 12 áreas (OMM),37,%,2023,S30,oficial,"Cociente de totales = 35,6%"
+costes_de_explotacion_12_areas,España (12 áreas OMM),4718,millones EUR,2023,S30,oficial,"Madrid, Barcelona, Valencia, Sevilla, Asturias, Mallorca, Camp de Tarragona, Alicante, A Coruña, Valladolid, Pamplona, León"
+ingresos_tarifarios_12_areas,España (12 áreas OMM),1681,millones EUR,2023,S30,oficial,
+viajes_totales_25_areas,España (25 áreas OMM),3801,millones de viajes,2023,S30,oficial,4.012 M en 2024
+coste_por_viaje_aprox,España (OMM),1.24,EUR/viaje,2023,S99,estimacion_propia,= 4.718 / 3.801; poco fiable porque costes (12 áreas) y viajes (25 áreas) no cubren lo mismo

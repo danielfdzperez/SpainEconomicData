@@ -1,0 +1,17 @@
+nivel,titularidad,concepto,importe_min_eur,importe_max_eur,valor_central_eur,unidad,territorio,curso_anio,fuente_id,tipo_dato,fiabilidad,nota
+Infantil,Privado,Cuota mensual base,300,850,575.0,EUR/mes,Madrid,2026,S24,oficial_secundaria,media,"Excluye comedor, transporte, uniforme y extraescolares"
+Primaria,Privado,Cuota mensual base,400,1000,700.0,EUR/mes,Madrid,2026,S24,oficial_secundaria,media,
+ESO y Bachillerato,Privado,Cuota mensual base,500,1300,900.0,EUR/mes,Madrid,2026,S24,oficial_secundaria,media,"Internacionales (británico, americano, IB) suelen superar 1.000"
+Todos (privado),Privado,Comedor,130,220,175.0,EUR/mes,Madrid,2026,S24,oficial_secundaria,media,
+Todos (privado),Privado,Transporte escolar,100,200,150.0,EUR/mes,Madrid,2026,S24,oficial_secundaria,media,
+Todos (privado),Privado,Uniformes (inversión inicial),300,600,450.0,EUR,Madrid,2026,S24,oficial_secundaria,media,
+Todos (privado),Privado,Derechos de inscripción (no reembolsable),500,3000,1750.0,EUR,Madrid,2026,S24,oficial_secundaria,media,Más fianza 500-1.500 reembolsable y una mensualidad de matrícula
+Infantil a Bachillerato,Concertado,Cuota media mensual 'voluntaria',135,135,135,EUR/mes,Madrid,2025,S25,oficial_secundaria,media,"Muestra de 101 colegios; ~2/3 cobran >150 EUR. No incluye comedor, bus ni extraescolares. Cataluña 220; País Vasco 99"
+Infantil a Bachillerato,Concertado,Cuota media mensual 'voluntaria',220,220,220,EUR/mes,Cataluña,2025,S25,oficial_secundaria,media,71 colegios
+Infantil a Bachillerato,Concertado,Cuota media mensual 'voluntaria',99,99,99,EUR/mes,País Vasco,2025,S25,oficial_secundaria,media,20 colegios
+FP (grado medio y superior),Privado,Matrícula anual,3000,6000,4500.0,EUR/curso,España,2026,S26,oficial_secundaria,baja,Fuente interesada (empresa de formación); especializados hasta ~10.000; pago habitual 250-500 EUR/mes
+Grado universitario,Público,"Precio por crédito, 1ª matrícula, nivel 3 de experimentalidad",16.92,16.92,16.92,EUR/credito,Madrid,2025-26,S22,oficial,alta,"60 ECTS = 1.015,20 EUR/curso. No se pudo leer la tabla de niveles 1 y 2"
+Grado universitario,Público,Coste de matrícula anual (60 ECTS),680,1280,980.0,EUR/curso,España,2024-25,S23,oficial_secundaria,media,Rango entre CCAA y titulaciones; medicina pública 757-1.283
+Máster universitario,Público,"Precio por crédito, 1ª matrícula, máster no habilitante",45.02,45.02,45.02,EUR/credito,Madrid,2025-26,S22,oficial,alta,"2ª matrícula 71,88; 3ª y siguientes 84,07"
+Doctorado,Público,Tutela académica,390,390,390,EUR/año,Madrid,2025-26,S22,oficial,alta,234 EUR si es a tiempo parcial
+Grado universitario,Privado,Precio anual,5000,30000,17500.0,EUR/curso,España,2024-25,S23,oficial_secundaria,media,Medicina privada 12.900-23.180; odontología 15.000-20.000; magisterio >7.000

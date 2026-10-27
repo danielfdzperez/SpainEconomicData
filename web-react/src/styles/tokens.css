@@ -1,0 +1,88 @@
+/* Tokens de diseño. Los colores de series están validados (scripts/validate_palette.js) sobre estas superficies. */
+:root {
+  color-scheme: light;
+  --font-ui: "Bricolage Grotesque", ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-text: "Source Serif 4", Georgia, "Times New Roman", serif;
+
+  --bg: #eef1f4;
+  --surface: #ffffff;
+  --surface-2: #f6f8fa;
+  --ink: #101b2a;
+  --ink-2: #364253;
+  --muted: #5b6676;
+  --line: #d3d9e1;
+  --grid: #e5e9ef;
+  --band: rgb(16 27 42 / 0.055);
+  --hl: #ffe14d;
+  --hl-ink: #101b2a;
+  --focus: #1d5fbf;
+  --inverse-bg: #101b2a;
+  --inverse-ink: #eef1f4;
+  --shadow: 0 1px 2px rgb(16 27 42 / 0.08), 0 8px 24px rgb(16 27 42 / 0.1);
+
+  --series-1: #2a78d6;
+  --series-2: #eb6834;
+  --series-3: #1baf7a;
+  --series-4: #eda100;
+  --series-5: #e87ba4;
+  --series-6: #008300;
+  --series-7: #6250d6;
+  --series-8: #e34948;
+
+  --tone-good: #0b7a3e;
+  --tone-warn: #a86f00;
+  --tone-orange: #c4511c;
+  --tone-bad: #c3312c;
+  --tone-info: #2467bd;
+  --tone-neutral: #5b6676;
+
+  --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 24px; --space-6: 40px; --space-7: 64px;
+  --radius: 8px;
+  --radius-sm: 5px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-theme="light"])) {
+    color-scheme: dark;
+    --bg: #0d1520;
+    --surface: #172230;
+    --surface-2: #1d2a3b;
+    --ink: #e8edf3;
+    --ink-2: #c3ccd8;
+    --muted: #93a0b0;
+    --line: #2c3a4d;
+    --grid: #243244;
+    --band: rgb(232 237 243 / 0.06);
+    --hl: #f2cc0c;
+    --hl-ink: #0d1520;
+    --focus: #6aa8f5;
+    --inverse-bg: #e8edf3;
+    --inverse-ink: #0d1520;
+    --shadow: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px rgb(0 0 0 / 0.45);
+    --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70; --series-4: #c98500;
+    --series-5: #d55181; --series-6: #008300; --series-7: #9085e9; --series-8: #e66767;
+    --tone-good: #3fc27a; --tone-warn: #e0a721; --tone-orange: #f08a52; --tone-bad: #f07571; --tone-info: #6aa8f5; --tone-neutral: #93a0b0;
+  }
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #0d1520;
+  --surface: #172230;
+  --surface-2: #1d2a3b;
+  --ink: #e8edf3;
+  --ink-2: #c3ccd8;
+  --muted: #93a0b0;
+  --line: #2c3a4d;
+  --grid: #243244;
+  --band: rgb(232 237 243 / 0.06);
+  --hl: #f2cc0c;
+  --hl-ink: #0d1520;
+  --focus: #6aa8f5;
+  --inverse-bg: #e8edf3;
+  --inverse-ink: #0d1520;
+  --shadow: 0 1px 2px rgb(0 0 0 / 0.4), 0 8px 24px rgb(0 0 0 / 0.45);
+  --series-1: #3987e5; --series-2: #d95926; --series-3: #199e70; --series-4: #c98500;
+  --series-5: #d55181; --series-6: #008300; --series-7: #9085e9; --series-8: #e66767;
+  --tone-good: #3fc27a; --tone-warn: #e0a721; --tone-orange: #f08a52; --tone-bad: #f07571; --tone-info: #6aa8f5; --tone-neutral: #93a0b0;
+}

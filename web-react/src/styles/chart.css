@@ -1,0 +1,53 @@
+.chart { position: relative; outline: none; border-radius: var(--radius-sm); }
+.chart:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+.chart__svg { display: block; width: 100%; height: auto; overflow: visible; touch-action: pan-y; }
+
+.chart__gridline { stroke: var(--grid); stroke-width: 1; }
+.chart__zero { stroke: var(--ink-2); stroke-width: 1.25; }
+.chart__tick { fill: var(--muted); font-size: 12px; font-family: var(--font-ui); font-variant-numeric: tabular-nums; }
+.chart__axis-title { fill: var(--ink-2); font-size: 12px; font-weight: 600; font-family: var(--font-ui); }
+.chart__band { fill: var(--band); }
+.chart__band-label { fill: var(--muted); font-size: 11px; font-family: var(--font-ui); }
+.chart__base { stroke: var(--ink-2); stroke-width: 1; stroke-dasharray: 4 4; }
+.chart__base-label { fill: var(--ink-2); font-size: 11px; font-weight: 600; }
+
+.chart__line { fill: none; stroke: var(--c); stroke-width: 2.25; stroke-linejoin: round; stroke-linecap: round; }
+.chart__dot { fill: var(--c); stroke: var(--surface); stroke-width: 2; }
+.chart__label { fill: var(--ink); font-size: 12.5px; font-weight: 600; font-family: var(--font-ui); }
+.chart__label-key { stroke: var(--c); stroke-width: 3; stroke-linecap: round; }
+
+.chart__crosshair { stroke: var(--ink-2); stroke-width: 1; stroke-dasharray: 3 3; }
+.chart__marker { fill: var(--c); stroke: var(--surface); stroke-width: 2; }
+.chart__overlay { fill: transparent; cursor: crosshair; }
+
+.bar { fill: var(--tone); }
+.bar.is-active { stroke: var(--ink); stroke-width: 2; }
+
+/* tooltip */
+.chart-tip { position: absolute; left: 0; top: 0; z-index: 5; min-width: 200px; max-width: min(340px, 86%); pointer-events: none; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: var(--space-3); font-size: 0.85rem; }
+.chart-tip__title { font-weight: 800; font-size: 1rem; margin-bottom: var(--space-2); }
+.chart-tip__row { display: grid; grid-template-columns: 12px auto 1fr; column-gap: var(--space-2); align-items: baseline; margin-bottom: 6px; }
+.chart-tip__key { width: 12px; height: 4px; border-radius: 2px; background: var(--c); align-self: center; }
+.chart-tip__value { font-weight: 800; font-variant-numeric: tabular-nums; }
+.chart-tip__label { color: var(--ink-2); }
+.chart-tip__hint { grid-column: 2 / -1; color: var(--muted); font-size: 0.8rem; }
+.chart-tip__footer { border-top: 1px solid var(--grid); padding-top: var(--space-2); margin-top: var(--space-2); color: var(--ink-2); font-family: var(--font-text); font-size: 0.85rem; }
+
+/* tira de lectura */
+.strip { margin-top: var(--space-4); }
+.strip__bar { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; margin-bottom: var(--space-3); }
+.strip__title { font-weight: 600; font-size: 0.9rem; }
+.strip__cells { display: grid; grid-template-columns: repeat(auto-fill, minmax(104px, 1fr)); gap: 6px; }
+.cell { display: grid; grid-template-columns: auto 1fr; grid-template-rows: auto auto; column-gap: 6px; text-align: left; padding: 6px 8px; border: 1px solid var(--line); border-left: 4px solid var(--tone); border-radius: var(--radius-sm); background: color-mix(in srgb, var(--tone) 12%, var(--surface)); cursor: pointer; }
+.cell:hover { border-color: var(--ink-2); border-left-color: var(--tone); }
+.cell.is-selected { outline: 2px solid var(--ink); outline-offset: 1px; }
+.cell__year { font-size: 0.75rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.cell__glyph { color: var(--tone); justify-self: end; font-size: 0.8rem; }
+.cell__main { grid-column: 1 / -1; font-weight: 700; font-size: 0.82rem; line-height: 1.2; font-variant-numeric: tabular-nums; }
+.strip__detail { margin-top: var(--space-3); padding: var(--space-3) var(--space-4); border-left: 4px solid var(--tone, var(--line)); background: color-mix(in srgb, var(--tone, var(--muted)) 10%, var(--surface)); border-radius: 0 var(--radius-sm) var(--radius-sm) 0; min-height: 4.2em; }
+.strip__detail p { margin: 4px 0 0; font-family: var(--font-text); color: var(--ink-2); }
+
+.bands { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--space-3); }
+.band { display: grid; grid-template-columns: 14px 1fr; gap: var(--space-3); align-items: start; }
+.band__swatch { width: 14px; height: 14px; border-radius: 3px; background: var(--tone); margin-top: 4px; }
+.band p { margin: 2px 0 0; font-size: 0.88rem; color: var(--ink-2); font-family: var(--font-text); }

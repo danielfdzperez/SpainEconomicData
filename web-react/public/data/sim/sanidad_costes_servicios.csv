@@ -1,0 +1,62 @@
+servicio,ambito,territorio,importe_min_eur,importe_max_eur,valor_central_eur,unidad,anio,descripcion,fuente_id,tipo_dato,fiabilidad,nota
+consulta_atencion_primaria,publico_tarifa_a_terceros,Navarra,46.88,46.88,46.88,EUR/consulta,2025,Consulta presencial de atención primaria,S12,oficial_secundaria,media,"Tarifa que cobra Osasunbidea a terceros pagadores (mutuas, seguros obligatorios); el paciente del SNS no paga"
+consulta_atencion_primaria,publico_tarifa_a_terceros,País Vasco,68,68,68,EUR/consulta,2025,Consulta médica presencial,S13,oficial_secundaria,media,Tarifa de Osakidetza a terceros
+consulta_atencion_primaria,publico_tarifa_a_terceros,Madrid,50,50,50,EUR/consulta,2023,Consulta de AP sin pruebas complementarias,S10,oficial_secundaria,media,Orden de precios públicos publicada en BOCM 30-dic-2023
+consulta_telefonica,publico_tarifa_a_terceros,Madrid,38,38,38,EUR/consulta,2023,Consulta telefónica de facultativo de AP (propuesta de la memoria),S11,oficial,media,Cifra de la propuesta; puede diferir ligeramente de la Orden definitiva
+consulta_telefonica,publico_tarifa_a_terceros,País Vasco,34,34,34,EUR/consulta,2025,Consulta telefónica,S13,oficial_secundaria,media,
+consulta_domiciliaria,publico_tarifa_a_terceros,Madrid,87,87,87,EUR/visita,2023,Consulta domiciliaria de facultativo (propuesta; la de 2017 era 135),S11,oficial,media,
+consulta_domiciliaria,publico_tarifa_a_terceros,Navarra,90.78,90.78,90.78,EUR/visita,2025,Consulta domiciliaria de AP,S12,oficial_secundaria,media,
+consulta_domiciliaria,publico_tarifa_a_terceros,País Vasco,96,96,96,EUR/visita,2025,Visita a domicilio,S13,oficial_secundaria,media,
+consulta_domiciliaria_enfermeria,publico_tarifa_a_terceros,Madrid,56,56,56,EUR/visita,2023,Consulta domiciliaria de enfermera (propuesta; la de 2017 era 69),S11,oficial,media,
+cura_enfermeria,publico_tarifa_a_terceros,País Vasco,29,29,29,EUR/cura,2025,Cura de enfermería,S13,oficial_secundaria,media,
+consulta_especialista_primera,publico_tarifa_a_terceros,Madrid,132,132,132,EUR/consulta,2023,Primera consulta de atención especializada (propuesta; la de 2017 era 115),S11,oficial,media,
+consulta_especialista_primera,publico_tarifa_a_terceros,Navarra,146.66,146.66,146.66,EUR/consulta,2025,Primera consulta hospitalaria,S12,oficial_secundaria,media,
+consulta_especialista_sucesiva,publico_tarifa_a_terceros,Madrid,79,79,79,EUR/consulta,2023,Consulta sucesiva (propuesta; la de 2017 era 71),S11,oficial,media,
+consulta_especialista_sucesiva,publico_tarifa_a_terceros,Navarra,122.37,122.37,122.37,EUR/consulta,2025,Consulta hospitalaria sucesiva,S12,oficial_secundaria,media,
+consulta_alta_resolucion,publico_tarifa_a_terceros,Madrid,212,212,212,EUR/consulta,2023,Consulta de alta resolución (propuesta; la de 2017 era 186),S11,oficial,media,
+urgencias,publico_tarifa_a_terceros,Madrid,185,185,185,EUR/episodio,2023,Urgencia general no ingresada (propuesta; la de 2017 era 175),S11,oficial,media,
+urgencias_pediatricas,publico_tarifa_a_terceros,Madrid,137,137,137,EUR/episodio,2023,Urgencia pediátrica (propuesta; 2017: 114),S11,oficial,media,
+urgencias_gineco,publico_tarifa_a_terceros,Madrid,128,128,128,EUR/episodio,2023,Urgencia gineco-obstétrica (propuesta; 2017: 70),S11,oficial,media,
+urgencias_traumatologicas,publico_tarifa_a_terceros,Madrid,185,185,185,EUR/episodio,2023,Urgencia traumatológica (propuesta; 2017: 175),S11,oficial,media,
+dia_hospitalizacion,publico_tarifa_a_terceros,Navarra,614.63,614.63,614.63,EUR/dia,2025,Día de hospitalización convencional,S12,oficial_secundaria,media,
+dia_hospitalizacion,publico_tarifa_a_terceros,País Vasco,1339,1339,1339,EUR/dia,2025,Día de ingreso en hospital grande (aprox.),S13,oficial_secundaria,baja,Redondeado por la prensa; incluye todo lo que se factura a terceros
+dia_uci,publico_tarifa_a_terceros,Navarra,2577.08,2577.08,2577.08,EUR/dia,2025,Día de UCI,S12,oficial_secundaria,media,
+dia_uci,publico_tarifa_a_terceros,País Vasco,2025,2025,2025,EUR/dia,2025,Día en unidad especial (aprox.),S13,oficial_secundaria,baja,Prensa: 'unidad especial'
+dia_hospitalizacion_a_domicilio,publico_tarifa_a_terceros,Navarra,156.66,156.66,156.66,EUR/dia,2025,Día de hospitalización a domicilio,S12,oficial_secundaria,media,
+hospital_de_dia,publico_tarifa_a_terceros,Madrid,128,128,128,EUR/sesion,2023,Hospital de día médico (otros) (propuesta); oncohematológico 150; geriátrico/psiquiátrico 126; SIDA 373,S11,oficial,media,
+episodio_hospitalario_medio_grd,publico_tarifa_a_terceros,Madrid,7171,7171,7171,EUR/alta,2023,Coste medio por GRD con las tarifas propuestas (altas de 2021). Con las tarifas de 2017: 6.222,S11,oficial,media,
+episodio_hospitalario_medio,publico_tarifa_a_terceros,España,5449,5449,5449,EUR/hospitalizacion,2023,Coste medio por hospitalización en el SNS (año no confirmado en la fuente),S16,oficial,media,Fuente: DATOS_SNS_07_2025
+parto,publico_tarifa_a_terceros,Navarra,3293,13470,8381.5,EUR/parto,2025,Atención al parto según complejidad,S12,oficial_secundaria,media,
+resonancia_magnetica,publico_tarifa_a_terceros,Navarra,227,227,227,EUR/prueba,2025,Resonancia magnética,S12,oficial_secundaria,media,
+ecografia,publico_tarifa_a_terceros,Navarra,77,77,77,EUR/prueba,2025,Ecografía,S12,oficial_secundaria,media,
+pet,publico_tarifa_a_terceros,Navarra,1026,2161,1593.5,EUR/prueba,2025,PET,S12,oficial_secundaria,media,
+colonoscopia_con_sedacion,publico_tarifa_a_terceros,País Vasco,641,641,641,EUR/prueba,2025,Colonoscopia con sedación,S13,oficial_secundaria,media,
+ambulancia_basica,publico_tarifa_a_terceros,Madrid,353,353,353,EUR/traslado,2023,Ambulancia (habitual),S10,oficial_secundaria,media,Desde el aeropuerto 705
+ambulancia_basica,publico_tarifa_a_terceros,País Vasco,325,325,325,EUR/traslado,2025,Ambulancia básica,S13,oficial_secundaria,media,
+ambulancia_soporte_vital_avanzado,publico_tarifa_a_terceros,País Vasco,1025,1025,1025,EUR/traslado,2025,Ambulancia SVA,S13,oficial_secundaria,media,
+ambulancia_soporte_vital_avanzado,publico_tarifa_a_terceros,Navarra,606.49,606.49,606.49,EUR/traslado,2025,Ambulancia SVA (desde),S12,oficial_secundaria,media,
+helicoptero_medicalizado,publico_tarifa_a_terceros,Madrid,7200,7200,7200,EUR/servicio,2023,Tarifa básica; +6.821 EUR por hora adicional,S10,oficial_secundaria,media,
+bypass_coronario,publico_tarifa_a_terceros,País Vasco,23247,54662,38954.5,EUR/intervencion,2025,Bypass coronario,S13,oficial_secundaria,media,
+protesis_cadera,publico_tarifa_a_terceros,País Vasco,10567,27288,18927.5,EUR/intervencion,2025,Reemplazo de cadera,S13,oficial_secundaria,media,
+hernia_inguinal,publico_tarifa_a_terceros,País Vasco,4910,31034,17972.0,EUR/intervencion,2025,Reparación de hernia inguinal,S13,oficial_secundaria,media,
+infarto_agudo_miocardio_grd,publico_tarifa_a_terceros,Madrid,3215,8316,5765.5,EUR/alta,2023,IAM según gravedad (GRD 190.1 a 190.4),S11,oficial,media,Tomado del anexo de GRD de la Orden de precios públicos
+dia_hospitalizacion,publico_coste_real,Castilla y León (Río Hortega),612,612,612,EUR/noche,2024,"Coste medio por estancia en el Hospital Río Hortega (cama, medicación, personal, pruebas, quirófano, comida, limpieza)",S14,oficial_secundaria,media,Concepto contable de Sacyl
+dia_hospitalizacion,publico_coste_real,España,671,671,671,EUR/dia,2022,Coste anual medio de una cama de hospital de agudos del SNS (244.847 EUR) / 365,S15,derivado,media,"Derivado: 244.847 / 365 = 670,8. Hospitales >1000 camas: 277.173 EUR/año; <200 camas: 187.369 EUR/año"
+consulta_atencion_primaria,privado_precio,España,17,55,36.0,EUR/consulta,2026,Medicina general en capitales (Doctoralia/Top Doctors),S17,oficial_secundaria,media,
+consulta_atencion_primaria,privado_precio,España,40,90,65.0,EUR/consulta,2026,Médico de cabecera privado (cita en 24-48 h),S18,oficial_secundaria,media,"Fuentes citadas genéricas; análisis aparte 30-80, ECG 20-50"
+consulta_telefonica,privado_precio,España,15,35,25.0,EUR/consulta,2026,Telemedicina,S18,oficial_secundaria,media,Videoconsulta 5-80 según tipo (S17)
+consulta_domiciliaria,privado_precio,España,120,250,185.0,EUR/visita,2026,Médico a domicilio privado,S18,oficial_secundaria,media,
+consulta_especialista_primera,privado_precio,España,60,120,90.0,EUR/consulta,2026,Primera consulta con especialista; en clínicas premium >200,S17,oficial_secundaria,media,
+urgencias,privado_precio,España,100,250,175.0,EUR/episodio,2026,Atención inicial en urgencias privadas sin seguro,S17,oficial_secundaria,media,Con pruebas y tratamiento puede llegar a 300-800 EUR
+urgencias_con_pruebas,privado_precio,España,300,800,550.0,EUR/episodio,2026,Urgencia privada con pruebas y tratamiento,S17,oficial_secundaria,baja,
+analitica_completa,privado_precio,España,40,79,59.5,EUR/prueba,2026,Analítica completa,S17,oficial_secundaria,media,
+radiografia,privado_precio,España,16,80,48.0,EUR/prueba,2026,Radiografía,S17,oficial_secundaria,media,
+ecografia,privado_precio,España,60,110,85.0,EUR/prueba,2026,Ecografía,S17,oficial_secundaria,media,
+tac,privado_precio,España,117,260,188.5,EUR/prueba,2026,TAC,S17,oficial_secundaria,media,
+resonancia_magnetica,privado_precio,España,125,290,207.5,EUR/prueba,2026,Resonancia magnética,S17,oficial_secundaria,media,
+parto_natural,privado_precio,España,4500,10000,7250.0,EUR/parto,2026,"Parto natural en clínica privada sin seguro (obstetra, matrona, 2 noches, neonatal); epidural 600-1.500 aparte",S19,oficial_secundaria,baja,Precios orientativos de un portal comparador
+parto_cesarea,privado_precio,España,6000,15000,10500.0,EUR/parto,2026,Cesárea programada (3-4 noches),S19,oficial_secundaria,baja,Premium 10.000-25.000
+suplemento_habitacion_individual_parto,privado_precio,España,2000,3000,2500.0,EUR/ingreso,2026,Suplemento habitación individual en el ingreso por parto,S19,oficial_secundaria,baja,La calculadora indica 2.500
+copago_consulta_mutua,privado_precio,España,5,15,10.0,EUR/consulta,2026,Copago por consulta con seguro de salud con copago,S18,oficial_secundaria,media,
+prima_seguro_salud,privado_precio,España,13.99,22.1,18.05,EUR/mes,2026,"Primas de entrada (Caser 13,99; DKV 17; Sanitas Accede 22,10; SegurCaixa Adeslas desde 21) con copagos",S17,oficial_secundaria,media,Seguros con cobertura de parto: 50-180 EUR/mes (S19)
+prima_seguro_salud_con_parto,privado_precio,España,50,180,115.0,EUR/mes,2026,Seguro privado que cubre el parto (Adeslas 60-150; Sanitas Plus 80-180; DKV 55-140; Mapfre 50-130),S19,oficial_secundaria,baja,Carencia 8-12 meses

@@ -1,0 +1,29 @@
+rama_id,nivel,padre_id,rama,rama_corta,vab_2024_millones_eur,vab_2025_millones_eur,fuente_id,tipo_dato,nota
+pib,0,,PIB a precios de mercado,PIB,1598588,1690012,S31,oficial,"PIB a precios corrientes (oferta). 2024 provisional, 2025 avance. Mismo valor que pib_espana_anual.csv"
+agricultura,1,pib,"Agricultura, ganadería, silvicultura y pesca",Agricultura y pesca,42587,46587,S48,oficial,Valor añadido bruto (VAB) a precios corrientes
+industria,1,pib,Industria,Industria,227521,236410,S48,oficial,VAB. Es la suma de las cuatro filas de industria de abajo; en 2025 coincide con la cifra de la nota de prensa del INE (S31)
+construccion,1,pib,Construcción,Construcción,81632,90592,S48,oficial,VAB a precios corrientes
+servicios,1,pib,Servicios,Servicios,1105000,1158092,S48,oficial,VAB. Es la suma de las siete ramas de servicios de abajo; en 2025 coincide con la cifra de la nota de prensa del INE (S31)
+impuestos,1,pib,Impuestos netos sobre los productos,Impuestos sobre productos,141848,158331,S48,derivado,PIB menos VAB total (suma de las cuatro ramas). 2025: 158.331 coincide con la nota de prensa del INE (S31). 2024: 1.598.588 − 1.456.740
+ind_manufacturera,2,industria,Industria manufacturera,Manufacturas,172662,178777,S48,oficial,VAB
+ind_energia,2,industria,"Suministro de energía eléctrica, gas y vapor","Energía (electricidad, gas)",35050,36556,S48,oficial,VAB
+ind_agua,2,industria,"Suministro de agua, saneamiento y residuos",Agua y residuos,16006,17283,S48,oficial,"VAB. Incluye captación de agua, saneamiento y gestión de residuos"
+ind_extractivas,2,industria,Industrias extractivas,Extractivas,3803,3794,S48,oficial,VAB
+srv_comercio_transporte_hosteleria,2,servicios,"Comercio, transporte y hostelería","Comercio, transporte y hostelería",350550,371806,S48,oficial,VAB. Rama agregada (suma de comercio + transporte + hostelería)
+srv_informacion,2,servicios,Información y comunicaciones,Información y comunicaciones,60169,64840,S48,oficial,VAB
+srv_financieras,2,servicios,Actividades financieras y de seguros,Finanzas y seguros,81397,77124,S48,oficial,VAB
+srv_inmobiliarias,2,servicios,Actividades inmobiliarias,Inmobiliarias,166951,171257,S48,oficial,"VAB. Incluye los alquileres imputados a los propietarios que viven en su vivienda, de ahí su peso"
+srv_profesionales,2,servicios,"Actividades profesionales, científicas, técnicas y administrativas",Profesionales y administrativas,137787,150984,S48,oficial,VAB. Rama agregada (profesionales + administrativas y auxiliares)
+srv_publicos,2,servicios,"Administración pública, educación, sanidad y servicios sociales","Admin. pública, educación y sanidad",249825,262826,S48,oficial,VAB. Rama agregada (Administración pública + educación + sanidad y servicios sociales). Incluye la parte privada de educación y sanidad
+srv_otros,2,servicios,"Artes, otros servicios y hogares","Artes, otros y hogares",58321,59255,S48,oficial,VAB. Rama agregada (artísticas + otros servicios + hogares como empleadores)
+srv_comercio,3,srv_comercio_transporte_hosteleria,Comercio al por mayor y al por menor; reparación de vehículos,Comercio,188813,198507,S48,oficial,VAB
+srv_transporte,3,srv_comercio_transporte_hosteleria,Transporte y almacenamiento,Transporte y almacenamiento,66459,70822,S48,oficial,VAB
+srv_hosteleria,3,srv_comercio_transporte_hosteleria,Hostelería,Hostelería,95278,102477,S48,oficial,VAB
+srv_prof_cientificas,3,srv_profesionales,"Actividades profesionales, científicas y técnicas","Profesionales, científicas y técnicas",79978,89294,S48,oficial,"VAB. Jurídicas, contables, arquitectura, ingeniería, I+D, publicidad…"
+srv_administrativas,3,srv_profesionales,Actividades administrativas y servicios auxiliares,Administrativas y auxiliares,57809,61690,S48,oficial,"VAB. Alquiler de bienes, agencias de empleo y de viajes, seguridad, limpieza…"
+srv_aapp,3,srv_publicos,Administración pública y defensa; Seguridad Social,Admin. pública y Seguridad Social,85431,90019,S48,oficial,VAB
+srv_educacion,3,srv_publicos,Educación,Educación,72910,76791,S48,oficial,VAB. Pública y privada
+srv_sanidad,3,srv_publicos,Actividades sanitarias y de servicios sociales,Sanidad y servicios sociales,91484,96016,S48,oficial,VAB. Pública y privada
+srv_artisticas,3,srv_otros,"Actividades artísticas, recreativas y de entretenimiento",Artes y ocio,23708,23316,S48,oficial,VAB
+srv_otros_servicios,3,srv_otros,Otros servicios,Otros servicios,22913,23627,S48,oficial,VAB
+srv_hogares,3,srv_otros,Hogares como empleadores de personal doméstico y productores para uso propio,Hogares como empleadores,11700,12312,S48,oficial,VAB

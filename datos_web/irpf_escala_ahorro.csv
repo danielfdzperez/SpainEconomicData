@@ -1,0 +1,6 @@
+desde,hasta,tipo_pct,cuota_acumulada_en_desde,fuente_id,tipo_dato,nota
+0,6000,19.0,0.0,S05,oficial_secundaria,"Base del ahorro (intereses, dividendos, ganancias). Tipo total estatal+autonomico. El 30% por encima de 300.000 EUR lo cita la fuente (Ley 7/2024) pero no se pudo contrastar"
+6000,50000,21.0,1140.0,S05,oficial_secundaria,"Base del ahorro (intereses, dividendos, ganancias). Tipo total estatal+autonomico. El 30% por encima de 300.000 EUR lo cita la fuente (Ley 7/2024) pero no se pudo contrastar"
+50000,200000,23.0,10380.0,S05,oficial_secundaria,"Base del ahorro (intereses, dividendos, ganancias). Tipo total estatal+autonomico. El 30% por encima de 300.000 EUR lo cita la fuente (Ley 7/2024) pero no se pudo contrastar"
+200000,300000,27.0,44880.0,S05,oficial_secundaria,"Base del ahorro (intereses, dividendos, ganancias). Tipo total estatal+autonomico. El 30% por encima de 300.000 EUR lo cita la fuente (Ley 7/2024) pero no se pudo contrastar"
+300000,,30.0,71880.0,S05,oficial_secundaria,"Base del ahorro (intereses, dividendos, ganancias). Tipo total estatal+autonomico. El 30% por encima de 300.000 EUR lo cita la fuente (Ley 7/2024) pero no se pudo contrastar"

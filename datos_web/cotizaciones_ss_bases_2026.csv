@@ -1,0 +1,12 @@
+grupo_cotizacion,categoria,unidad,base_minima,base_maxima,fuente_id
+1,Ingenieros y licenciados; alta dirección,EUR/mes,1989.3,5101.2,S01
+2,"Ingenieros técnicos, peritos y ayudantes titulados",EUR/mes,1649.7,5101.2,S01
+3,Jefes administrativos y de taller,EUR/mes,1435.2,5101.2,S01
+4,Ayudantes no titulados,EUR/mes,1424.4,5101.2,S01
+5,Oficiales administrativos,EUR/mes,1424.4,5101.2,S01
+6,Subalternos,EUR/mes,1424.4,5101.2,S01
+7,Auxiliares administrativos,EUR/mes,1424.4,5101.2,S01
+8,Oficiales de primera y segunda,EUR/dia,47.48,170.04,S01
+9,Oficiales de tercera y especialistas,EUR/dia,47.48,170.04,S01
+10,Peones,EUR/dia,47.48,170.04,S01
+11,Menores de 18 años,EUR/dia,47.48,170.04,S01

@@ -1,0 +1,13 @@
+titulo,tipo,precio_eur,unidad,descuento_aplicado_pct,precio_sin_descuento_derivado_eur,fuente_id,tipo_dato,nota
+"Abono mensual 26-64 años, zona A",Abono,32.7,EUR/mes,40,54.5,S28,oficial,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+"Abono mensual 26-64 años, zona B1",Abono,38.2,EUR/mes,40,63.67,S28,oficial,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+"Abono mensual 26-64 años, zona B2",Abono,43.2,EUR/mes,40,72.0,S28,oficial,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+"Abono mensual 26-64 años, zonas B3/C1/C2",Abono,49.2,EUR/mes,40,82.0,S28,oficial,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+"Abono mensual 26-64 años, zona E1",Abono,66.3,EUR/mes,40,110.5,S29,oficial_secundaria,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+"Abono mensual 26-64 años, zona E2",Abono,79.0,EUR/mes,40,131.67,S29,oficial_secundaria,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+Abono Joven (15-25 años),Abono,10.0,EUR/mes,50,20.0,S28,oficial,Precio sin descuento derivado = precio / (1 - descuento); no es oficial
+Abono Mayor (65+) y menores de 14,Abono,0,EUR/mes,100,,S28,oficial,Gratuito en 2026; coste lo asume la administración
+Bono de 10 viajes Metro/EMT zona A,Bono,7.3,EUR/10 viajes,,,S28,oficial,"= 0,73 EUR/viaje"
+Billete sencillo EMT,Sencillo,1.5,EUR/viaje,,,S29,oficial_secundaria,
+Billete sencillo Metro zona A,Sencillo,1.5,EUR/viaje,,,S29,oficial_secundaria,"Rango 1,50-2,00 según zona"
+Cercanías 1-2 zonas,Sencillo,1.7,EUR/viaje,,,S29,oficial_secundaria,

@@ -1,0 +1,16 @@
+cnae_2025,actividad,sector,tipo_it_pct,tipo_ims_pct,tipo_total_pct,fuente_id,nota
+82,Actividades administrativas de oficina y auxiliares,Oficinas,1.0,1.05,2.05,S07,Pagado 100% por la empresa
+84,Administración pública y defensa; SS obligatoria,Administración,0.65,1.0,1.65,S07,
+47,Comercio al por menor,Comercio,0.95,0.7,1.65,S07,
+46,Comercio al por mayor,Comercio,1.4,1.2,2.6,S07,
+55,Servicios de alojamiento,Hostelería,0.8,0.7,1.5,S07,
+56,Servicios de comidas y bebidas,Hostelería,0.8,0.7,1.5,S07,
+41,Construcción de edificios,Construcción,3.35,3.35,6.7,S07,
+43,Construcción especializada (excepto 436),Construcción,3.35,3.35,6.7,S07,
+49,Transporte terrestre y por tubería (excepto 494),Transporte,1.8,1.5,3.3,S07,
+51,Transporte aéreo,Transporte,1.9,1.7,3.6,S07,
+24,Metalurgia,Industria,2.0,1.85,3.85,S07,
+10,"Industria alimentaria (excepto 101,102,106,107,108)",Industria,1.6,1.6,3.2,S07,
+86,Actividades sanitarias (excepto 869),Sanidad,0.8,0.7,1.5,S07,
+85,Educación,Educación,0.8,0.7,1.5,S07,
+62,"Programación, consultoría informática",Informática,0.8,0.7,1.5,S07,

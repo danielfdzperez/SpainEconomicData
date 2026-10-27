@@ -1,0 +1,12 @@
+dias_cotizados_desde,dias_cotizados_hasta,dias_prestacion,meses_prestacion,fuente_id,nota
+360,539,120,4,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+540,719,180,6,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+720,899,240,8,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+900,1079,300,10,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1080,1259,360,12,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1260,1439,420,14,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1440,1619,480,16,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1620,1799,540,18,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1800,1979,600,20,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+1980,2159,660,22,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva
+2160,,720,24,S08,Cotizado en los últimos 6 años. Con < 360 días no hay prestación contributiva

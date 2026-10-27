@@ -1,0 +1,16 @@
+indicador,nivel,ambito,territorio,valor_eur_por_alumno,anio,fuente_id,tipo_dato,nota
+gasto_por_alumno,No universitaria,Centros públicos y concertados,España,6851,2023,S20,oficial_secundaria,Máximo País Vasco 8.946; mínimo Madrid 5.534
+gasto_por_alumno,No universitaria,Centros públicos y concertados,Madrid,5534,2023,S20,oficial_secundaria,Madrid es la CCAA con menor gasto por alumno
+gasto_por_alumno,No universitaria,Centros públicos y concertados,País Vasco,8946,2023,S20,oficial_secundaria,
+gasto_por_alumno,No universitaria,Solo centros públicos,España,7943,2023,S20,oficial_secundaria,
+gasto_por_alumno,No universitaria,Solo centros públicos,Madrid,6502,2023,S20,oficial_secundaria,Mínimo entre las CCAA
+gasto_por_alumno,No universitaria,Solo centros públicos,País Vasco,12484,2023,S20,oficial_secundaria,Máximo entre las CCAA
+gasto_por_alumno,No universitaria,Solo centros públicos,Navarra,9991,2023,S20,oficial_secundaria,
+gasto_por_alumno,Todos los niveles,Públicos y privados,España,6467,2019,S21,oficial,Dato antiguo; útil para la proporción entre niveles
+gasto_por_alumno,Infantil (CINE 0),Públicos y privados,España,5264,2019,S21,oficial,
+gasto_por_alumno,Primaria (CINE 1),Públicos y privados,España,5418,2019,S21,oficial,
+gasto_por_alumno,Secundaria (ESO + Bachillerato + FP medio) (CINE 2-3),Públicos y privados,España,6741,2019,S21,oficial,La FP de grado medio está en CINE 3; no hay desglose propio
+gasto_por_alumno,Superior (CINE 5-8),Públicos y privados,España,8930,2019,S21,oficial,
+gasto_por_alumno,FP superior y similar (CINE 5),Públicos y privados,España,6478,2019,S21,oficial,Mejor proxy disponible del coste de la FP de grado superior
+gasto_por_alumno,Universitaria (CINE 6-8),Públicos y privados,España,9589,2019,S21,oficial,
+gasto_por_alumno,No universitaria,Solo centros públicos,España,6230,2019,S21,oficial,2014: 5.169

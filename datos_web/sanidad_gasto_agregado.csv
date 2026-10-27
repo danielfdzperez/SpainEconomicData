@@ -1,0 +1,12 @@
+indicador,territorio,valor,unidad,anio,fuente_id,tipo_dato,nota
+gasto_sanitario_publico_total,España,99300,millones EUR,no especificado en la fuente (informe 2025),S16,oficial,"7,4% del PIB"
+gasto_sanitario_publico_por_habitante,España,2079,EUR/hab,no especificado,S16,oficial,
+gasto_sanitario_total_publico_y_privado,España,134000,millones EUR,no especificado,S16,oficial,"10,0% del PIB"
+gasto_sanitario_total_por_habitante,España,2805,EUR/hab,no especificado,S16,oficial,
+gasto_sanitario_privado_derivado,España,34700,millones EUR,no especificado,S99,derivado,= 134.000 - 99.300
+gasto_farmacia_recetas,España,14132,millones EUR,no especificado,S16,oficial,Recetas de medicamentos (gasto público)
+gasto_publico_salud_cofog,España,102942,millones EUR,2024,S36,oficial,División 07 COFOG (todas las AAPP)
+consultas_medicas_ap_por_habitante,España,5.0,consultas/hab/año,no especificado,S16,derivado,243 millones de consultas / 49 M habitantes
+consultas_enfermeria_ap_por_habitante,España,3.0,consultas/hab/año,no especificado,S16,derivado,147 millones / 49 M
+consultas_hospital_por_habitante,España,1.9,consultas/hab/año,no especificado,S16,derivado,91 millones / 49 M
+coste_anual_cama_hospital_agudos,España,244847,EUR/cama/año,2022,S15,oficial_secundaria,Hospitales >1000 camas 277.173; <200 camas 187.369
